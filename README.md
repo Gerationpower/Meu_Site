@@ -1,2 +1,2 @@
 # Meu_Site
-Um mecanismo onde é alimentado de um lugar com um número de estação e esse é mostrado em painel para organizar a sequência de chegada de motoristas para coletar.
+Uma pagina simulando um painel onde vc tem uma entrada de informações que são exibibidas nesse painel com o objetivo organizar filas conforme ordem de chegada.
